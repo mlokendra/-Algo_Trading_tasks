@@ -1,1 +1,1 @@
-# -Algo_Trading_tasks
+# Algo_Trading_tasks
